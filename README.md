@@ -15,6 +15,14 @@ Meu nome é Richardson tenho 15 anos e sou desenvolvedor front-end mas ainda est
   <img width="12" />
 </div>
 
+## 📈 Estatísticas do GitHub
+
+[![status do git](https://github-readme-stats.vercel.app/api?username=Richardson02&show_icons=true&theme=radical)](https://github.com/Richardson02)
+ 
+  <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Richardson02&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=radical&hide_border=false" height="200" alt="languages graph"  />
+</div>
+
 ## 🌐 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/richardson-batista-04417330b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)

@@ -17,10 +17,10 @@ Meu nome é Richardson tenho 15 anos e sou desenvolvedor front-end mas ainda est
 
 ## 📈 Estatísticas do GitHub
 
-[![status do git](https://github-readme-stats.vercel.app/api?username=Richardson02&show_icons=true&theme=radical)](https://github.com/Richardson02)
+[![status do git](https://github-readme-stats.vercel.app/api?username=Richardson02&show_icons=true&theme=blue-green)](https://github.com/Richardson02)
  
   <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Richardson02&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=radical&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Richardson02&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=blue-green&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ## 🌐 Redes Sociais

@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1> Olá! Sou Richardson </h1>
 
-<!--
-**Richardson02/richardson02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## um pouco de mim:
 
-Here are some ideas to get you started:
+Meu nome é Richardson tenho 15 anos e sou desenvolvedor front-end mas ainda estou aprendendo, atualmente estou fazerdo curso técnico. quero melhorar ainda mais minhas habilidades, para poder criar grandes sites e poder ajudar pessoas assim como eu, que ainda tem algumas dificuldades, que estão começando. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+</div>
+
+## 🌐 Redes Sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/richardson-batista-04417330b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richardsonn_8k?utm_source=qr&igsh=MTFib2R1YW14aGN4Nw==)
